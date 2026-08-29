@@ -1,0 +1,2 @@
+﻿Setting,Accuracy,Trainable Params,Training Cost
+Linear probe,93.76,5130,7.93 s classifier training (plus frozen CLIP feature extraction)

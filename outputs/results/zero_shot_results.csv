@@ -1,0 +1,5 @@
+setting,prompt,accuracy,accuracy_percent,trainable_params,training_cost
+zero-shot,class name,0.8738,87.38,0,Very low
+zero-shot,a photo of a {},0.8883,88.83,0,Very low
+zero-shot,a close-up photo of a {},0.8693,86.92999999999999,0,Very low
+zero-shot,an image of a {},0.8903,89.03,0,Very low

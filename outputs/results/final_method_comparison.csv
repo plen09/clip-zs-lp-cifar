@@ -1,0 +1,5 @@
+﻿Setting,Accuracy,Trainable Params,Training Cost
+"Zero-shot, class name",87.38,0,None (inference only)
+"Zero-shot, best single prompt",89.03,0,None (inference only)
+"Zero-shot, prompt ensemble",88.87,0,None (inference only)
+Linear probe,93.76,5130,7.93 s classifier training (plus frozen feature extraction)

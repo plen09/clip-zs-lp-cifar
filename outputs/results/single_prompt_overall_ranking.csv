@@ -1,0 +1,6 @@
+rank,prompt,accuracy_percent
+1,an image of a {},89.03
+2,a photo of a {},88.83
+3,a blurry photo of a {},87.86
+4,class name,87.38
+5,a close-up photo of a {},86.92999999999999

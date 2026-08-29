@@ -1,0 +1,11 @@
+﻿True_Class,Predicted_Class,Count
+dog,cat,60
+cat,frog,40
+cat,dog,40
+bird,frog,32
+bird,deer,30
+deer,frog,29
+ship,airplane,23
+truck,automobile,23
+automobile,truck,22
+frog,cat,22

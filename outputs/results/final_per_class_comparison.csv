@@ -1,0 +1,11 @@
+﻿Class,ZeroShot_ClassName,Best_Single_Prompt,Prompt_Ensemble,Linear_Probe
+airplane,81.3,89.5,88.8,96.3
+automobile,89.9,93.8,96.7,96.9
+bird,91.7,87.5,88.1,89.8
+cat,79.2,87.0,85.4,89.0
+deer,82.2,78.9,79.6,91.9
+dog,85.2,88.9,87.6,90.1
+frog,77.0,75.4,76.4,95.4
+horse,97.1,96.7,96.8,94.9
+ship,96.3,95.7,96.7,96.4
+truck,93.9,96.9,92.6,96.9
